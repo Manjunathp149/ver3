@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-16T17:47:30 IST" name="Default suite" finished-at="2022-06-16T17:48:24 IST" duration-ms="54629">
+    <groups>
+    </groups>
+    <test started-at="2022-06-16T17:47:30 IST" name="Default test" finished-at="2022-06-16T17:48:24 IST" duration-ms="54629">
+      <class name="Assignment.CampaignAdvanceSaerchTest">
+        <test-method is-config="true" signature="dbconfig()[pri:0, instance:Assignment.CampaignAdvanceSaerchTest@25084a1e]" started-at="2022-06-16T17:47:30 IST" name="dbconfig" finished-at="2022-06-16T17:47:30 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbconfig -->
+        <test-method is-config="true" signature="launchTheBrowse()[pri:0, instance:Assignment.CampaignAdvanceSaerchTest@25084a1e]" started-at="2022-06-16T17:47:30 IST" name="launchTheBrowse" finished-at="2022-06-16T17:47:45 IST" duration-ms="14813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTheBrowse -->
+        <test-method is-config="true" signature="loginToAppln()[pri:0, instance:Assignment.CampaignAdvanceSaerchTest@25084a1e]" started-at="2022-06-16T17:47:45 IST" name="loginToAppln" finished-at="2022-06-16T17:47:56 IST" duration-ms="10914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToAppln -->
+        <test-method signature="CampaignAdvanceSearch()[pri:0, instance:Assignment.CampaignAdvanceSaerchTest@25084a1e]" started-at="2022-06-16T17:47:56 IST" name="CampaignAdvanceSearch" finished-at="2022-06-16T17:48:20 IST" duration-ms="24477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CampaignAdvanceSearch -->
+        <test-method is-config="true" signature="LogoutFromAppln()[pri:0, instance:Assignment.CampaignAdvanceSaerchTest@25084a1e]" started-at="2022-06-16T17:48:20 IST" name="LogoutFromAppln" finished-at="2022-06-16T17:48:24 IST" duration-ms="3697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFromAppln -->
+        <test-method is-config="true" signature="closeTheBrowser()[pri:0, instance:Assignment.CampaignAdvanceSaerchTest@25084a1e]" started-at="2022-06-16T17:48:24 IST" name="closeTheBrowser" finished-at="2022-06-16T17:48:24 IST" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+        <test-method is-config="true" signature="closeDBConfig()[pri:0, instance:Assignment.CampaignAdvanceSaerchTest@25084a1e]" started-at="2022-06-16T17:48:25 IST" name="closeDBConfig" finished-at="2022-06-16T17:48:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDBConfig -->
+      </class> <!-- Assignment.CampaignAdvanceSaerchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
